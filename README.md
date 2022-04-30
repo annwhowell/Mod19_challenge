@@ -45,21 +45,21 @@ w3 = Web3(Web3.HTTPProvider('HTTP://127.0.0.1:7545'))
 #The command will launch the web page in a browser and provide the url
 #This example is done a localhost
 
-![<Terminal command to launch and resulting webpage>](<images/terminal_commands.png>)
+![<Terminal command to launch and resulting webpage>](<./images/terminal_commands.png>)
 
 # Webpage
-![<The launched web page>](<images/main_page_screenshot.png>)
+![<The launched web page>](<./images/main_page_screenshot.png>)
 
 # Validation of the transaction occurring
-![<Validation of the transaction occurring>](<images/validated_transaction.png>)
+![<Validation of the transaction occurring>](<./images/validated_transaction.png>)
 
 # Verification through Ganache
 #Ganache provided the mnemonic phrase and the testing environment for the app
 #After running the app, the results verifying the transactio0n are seen on Ganache
 
-![<Ganache Account>](<images/ganache_account.png>)
+![<Ganache Account>](<./images/ganache_account.png>)
 
-![<Ganache Record of Transaction>](<images/ganache_transaction.png>)
+![<Ganache Record of Transaction>](<./images/ganache_transaction.png>)
 
 # Created By
 #Ann Howell with support from the Rice FinTech Bootcamp
