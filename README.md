@@ -48,16 +48,24 @@ w3 = Web3(Web3.HTTPProvider('HTTP://127.0.0.1:7545'))
 ![<Terminal command to launch and resulting webpage>](<./Images/terminal_commands.png>)
 
 # Webpage
+#This image shows the webpage launched on the localhost
+
 ![<The launched web page>](<Images/main_page_screenshot.png>)
 
 # Validation of the transaction occurring
+#The web page shows that the validation occureed and the transaction went through
+
 ![<Validation of the transaction occurring>](</Images/validated_transaction.png>)
 
 # Verification through Ganache
 #Ganache provided the mnemonic phrase and the testing environment for the app
-#After running the app, the results verifying the transactio0n are seen on Ganache
+#After running the app, the results verifying the transaction are seen on Ganache
+
+#The Ganache main page shows and overview and the mnemonic phrase
 
 ![<Ganache Account>](<./Images/ganache_account.png>)
+
+#The transactions page shows the transaction details
 
 ![<Ganache Record of Transaction>](<./Images/ganache_transaction.png>)
 
